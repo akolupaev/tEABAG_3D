@@ -1,5 +1,5 @@
-It's better late then never. 
-
-
+0. Put it all to web_root or deeper
+1. Fonts. You need fonts. TTF, just place them to /lib/teabag_3d/lib/fonts/
+2. See example.php
 
 questions?->kolupaev@gmail.com
